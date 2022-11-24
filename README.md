@@ -10,7 +10,7 @@
 ###  Brazilian boy 🇧🇷
 ### **[My Goodreads](https://www.goodreads.com/user/show/138261088-dudow)**, to nerdolas.
 ### **[My Anilist](https://anilist.co/user/DinossauroTarado/)**, to super nerdolas.
-###   **[My Portfolio](https://dudow.io)**, to... myself?
+###   **[My Portfolio](https://resumow.vercel.app/)**, to... myself?
 
 
 <br/>
