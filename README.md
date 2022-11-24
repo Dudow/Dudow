@@ -47,7 +47,7 @@
 <br/>
 
 ## My professional goals
-    - [ ] Find an european job
+    - [x] Find an american job
     - [ ] Retire
 
 <br/>
@@ -56,7 +56,7 @@
 
 ## My personal life goals
 
-    - [ ] Find a Wife
+    - [x] Find a Wife
     - [ ] Teach my each of my children how to be a nice person
         - [-] Learn how to be a nice person
     - [ ] Buy a farm
@@ -64,9 +64,9 @@
         - [ ] Teach my dogs how to take care of my flock of sheep
         - [ ] Teach my children how to take care of my dogs that take care of my flock of sheep
     - [-] Take the Shape 
-    - [-] Go to Europe
+    - [x] Go to Europe
         - [x] College (University of Coimbra)
-        - [ ] Job  
+        - [x] Job  
     - [-] Become a Musician 
         - [-] Violin
         - [ ] Piano
