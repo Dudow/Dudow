@@ -57,7 +57,7 @@
 ## My personal life goals
 
     - [x] Find a Wife
-    - [ ] Teach my each of my children how to be a nice person
+    - [ ] Teach each of my children how to be a nice person
         - [-] Learn how to be a nice person
     - [ ] Buy a farm
         - [ ] Take care of my flock of sheep
@@ -72,12 +72,13 @@
         - [ ] Piano
         - [ ] Violoncello
     - [-] Read a lot of books
-        - [x] 2021: 14 books
-        - [-] 2022: 50 books
+        - [x] 2021: 12 books (read 14)
+        - [!] 2022: 50 books (read only 20)
+        - [-] 2023: 32 books
     - [-] Learn new Languages
         - [x] English
         - [-] Italian
-        - [-] Spanish
+        - [ ] Spanish
         - [ ] German
     - [ ] Cars collection
         - [ ] Lancer Evo X
