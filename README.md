@@ -1,7 +1,3 @@
-<h3 align="center">
-    <img src="https://resumow.vercel.app/Gradient3Big.png" width="40px" height="40px" />
-</h3>
-
 <h1 align="center">Yo, Dudow here! </h1>
 
 
